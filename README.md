@@ -2,7 +2,7 @@
 
 **A simple navigator tamplate to start develop a mobile app in react native.
 This navigator including only a tab navigator with three screens.
-It has a minimum functionality because it's a tamplate to any new project.
+It has a minimum functionality because it's a tamplate to any new project.**
 
 ## scripts
 
